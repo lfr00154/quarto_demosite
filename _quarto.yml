@@ -9,13 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      
+      - quarto_notebook.qmd
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    number-sections: true
 
 
 
