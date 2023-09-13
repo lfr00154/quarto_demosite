@@ -10,6 +10,10 @@ format:
         toc: true
         number-sections: true
         colorlinks: true
+    revealjs:
+        theme: default
+        chalkboard: true
+        scrollable: true
 execute:
   freeze: auto  # re-render only when source changes
 ---
